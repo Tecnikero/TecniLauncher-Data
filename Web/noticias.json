@@ -1,12 +1,12 @@
 [
   {
     "Titulo": "¡Bienvenido a TecniLauncher!",
-    "Imagen": "https://raw.githubusercontent.com/tucuenta/turepo/main/banner_bienvenida.png",
-    "Cuerpo": "Gracias por descargar nuestro launcher. Aquí verás las últimas novedades."
+    "Imagen": "https://images.hdqwalls.com/download/minecraft-4k-cartoon-2020-my-1920x1080.jpg",
+    "Cuerpo": "Gracias por descargar nuestro launcher."
   },
   {
-    "Titulo": "Mantenimiento Programado",
-    "Imagen": "",
-    "Cuerpo": "El servidor estará apagado este domingo por mejoras."
+    "Titulo": "Nueva Actualización 1.20",
+    "Imagen": "https://images.hdqwalls.com/download/minecraft-dungeons-2020-5k-zn-1920x1080.jpg",
+    "Cuerpo": "Explora las nuevas mecánicas y biomas."
   }
 ]
