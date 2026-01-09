@@ -1,0 +1,12 @@
+[
+  {
+    "Titulo": "¡Bienvenido a TecniLauncher!",
+    "Imagen": "https://raw.githubusercontent.com/tucuenta/turepo/main/banner_bienvenida.png",
+    "Cuerpo": "Gracias por descargar nuestro launcher. Aquí verás las últimas novedades."
+  },
+  {
+    "Titulo": "Mantenimiento Programado",
+    "Imagen": "",
+    "Cuerpo": "El servidor estará apagado este domingo por mejoras."
+  }
+]
