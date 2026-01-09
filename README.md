@@ -21,6 +21,6 @@
 ## 🚀 Descarga e Instalación
 Para comenzar a jugar, descarga el instalador oficial desde el siguiente enlace:
 
-[📥 DESCARGAR TECNILAUNCHER INSTALADOR]([SetupV1.1.2/TecniLauncher_Setup.exe](https://github.com/johan12390785/TecniLauncher-Data/raw/refs/heads/main/SetupV1.1.2/TecniLauncher_Setup.exe))
+[📥 DESCARGAR TECNILAUNCHER INSTALADOR](https://github.com/johan12390785/TecniLauncher-Data/raw/refs/heads/main/SetupV1.1.2/TecniLauncher_Setup.exe)
 
 ---
