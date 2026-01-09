@@ -1,9 +1,9 @@
 # 🎮 TecniLauncher v1.1.4
-¡Bienvenido al lanzador técnico definitivo! Diseñado para ser ligero, elegante y funcional.
+¡Bienvenido al lanzador técnico de Minecraft! Diseñado para ser ligero, elegante y funcional.
 
 ## ✨ Características
 
-* **Diseño Moderno:** Interfaz limpia con noticias integradas y transiciones suaves.
+* **Diseño Moderno:** Interfaz limpia con noticias integradas.
   ![Inicio del Launcher](Media/inicio.png)
   
 * **Premium o Offline:** Puedes iniciar con tu cuenta de Microsoft o jugar de modo Offline, tú eliges.
