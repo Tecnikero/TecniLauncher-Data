@@ -15,6 +15,7 @@
 
 * **Gestor de Mods:** Descarga de mods a través de la API de Modrinth.
   ![Apartado Mods](Media/mods.png)
+* **Eventos:** Proximamente con experiencias con modpacks que se actualizan automaticamente. 
 
 * **Actualizaciones Automáticas:** Mantente siempre en la última versión sin mover un dedo.
 
