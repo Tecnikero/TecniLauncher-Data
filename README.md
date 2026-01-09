@@ -1,4 +1,4 @@
-# 🎮 TecniLauncher v1.1.3
+# 🎮 TecniLauncher v1.1.4
 ¡Bienvenido al lanzador técnico definitivo! Diseñado para ser ligero, elegante y funcional.
 
 ## ✨ Características
