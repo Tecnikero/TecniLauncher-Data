@@ -18,6 +18,7 @@
 * **Eventos:** Proximamente con experiencias con modpacks que se actualizan automaticamente. 
 
 * **Actualizaciones Automáticas:** Mantente siempre en la última versión sin mover un dedo.
+* **SISTEMA DE SKIN TODAVIA NO FUNCIONAL**
 
 ## 🚀 Descarga e Instalación
 Para comenzar a jugar, descarga el instalador oficial desde el siguiente enlace:
