@@ -5,8 +5,8 @@
     "Cuerpo": "Gracias por descargar nuestro launcher."
   },
   {
-    "Titulo": "Actualizaciones v1.1.3",
+    "Titulo": "Actualizaciones v1.1.4",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
-    "Cuerpo": "Se agregaron animaciones a las noticias y se creo el apartado eventos"
+    "Cuerpo": "Se arreglo un bug del nombre offline y el lanzador del juego"
   }
 ]
