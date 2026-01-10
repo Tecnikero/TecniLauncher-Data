@@ -29,6 +29,13 @@ Para comenzar a jugar, descarga el instalador oficial desde el siguiente enlace:
 
 [📥 DESCARGAR TECNILAUNCHER INSTALADOR](https://github.com/johan12390785/TecniLauncher-Data/raw/refs/heads/main/SetupV1.1.2/TecniLauncher_Setup.exe)
 
+## 🔒 Seguridad y Privacidad
+Entendemos que la seguridad de tu cuenta de Minecraft es lo más importante. Por eso, TecniLauncher está diseñado con una política de **Transparencia Total**:
+
+1.  **Sin Contraseñas:** TecniLauncher **NUNCA** tiene acceso a tu contraseña. El inicio de sesión se realiza a través del protocolo oficial de Microsoft (OAuth 2.0).
+2.  **Librerías Certificadas:** Utilizamos `CmlLib.Core.Auth`, la librería de código abierto estándar de la comunidad para manejar la autenticación segura.
+3.  **Código Abierto:** Todo el código fuente está disponible en este repositorio. Puedes revisar exactamente qué hacemos con los datos: solo guardamos el *token* de sesión localmente en tu PC para que no tengas que loguearte cada vez.
+
 ---
 
 # 📜 Actualizaciones - TecniLauncher
