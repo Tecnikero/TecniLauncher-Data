@@ -1,4 +1,4 @@
-# 📜 Historial de Cambios - TecniLauncher
+# 📜 Actualizaciones - TecniLauncher
 
 Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán en este archivo.
 
@@ -10,7 +10,6 @@ Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán en es
 ---
 
 ## v1.1.3 (Lanzamiento Estable)
-* **Sistema de Snapping:** Ventana inteligente que se ancla a los bordes de la pantalla.
 * **Identidad:** Corrección del nombre de usuario (eliminado "tester123").
 * **Interfaz:** Estabilización de la Vista de Juego y mejoras visuales en la barra de carga.
 
