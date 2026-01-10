@@ -33,7 +33,7 @@ Para comenzar a jugar, descarga el instalador oficial desde el siguiente enlace:
 
 # 📜 Actualizaciones - TecniLauncher
 
-Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán en este archivo.
+Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán aquí.
 
 
 ## v1.1.4 (Hotfix) - *Versión Actual*
