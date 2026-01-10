@@ -44,7 +44,7 @@ Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán aquí
 
 
 ## v1.1.4 (Hotfix) - *Versión Actual*
-* **Corrección Crítica:** Solucionado un error que impedía el inicio correcto en ciertos sistemas tras la actualización.
+* **Corrección Crítica:** Solucionado un error que impedía el correcto inicio de usuario Offline con el Minecraft.
 * **Auto-Update:** Verificación exitosa del sistema de actualización automática en entorno real.
 
 ---
