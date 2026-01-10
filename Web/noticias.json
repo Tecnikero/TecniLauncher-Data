@@ -12,5 +12,10 @@
     "Titulo": "Ayudame a Mejorar",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondominelauncher3.jpg",
     "Cuerpo": "Pronto haremos un discord para escuchar su Feedback sobre el launcher"
+  },
+  {
+    "Titulo": "Nuestro Github",
+    "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
+    "Cuerpo": "Es nuestra sseccion donde normalemnte se informan de manera inmediata los cambios e informacion del launcher"
   }
 ]
