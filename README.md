@@ -20,7 +20,7 @@
 * **Actualizaciones Automáticas:** Mantente siempre en la última versión sin mover un dedo.
 * **SISTEMA DE SKIN TODAVIA NO FUNCIONAL**
 ## SISTEMAS A IMPLEMENTAR
-* Descarga de Modspacks
+* Descarga de Modpacks
 * Implementar sincronización con los proximos eventos
 * Sistema mejorado de Versiones (ej: Fabric 0.18.4-1.21.11)
 
