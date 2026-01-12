@@ -1,4 +1,4 @@
-# 🎮 TecniLauncher v1.1.4
+# 🎮 TecniLauncher
 ¡Bienvenido al lanzador técnico de Minecraft! Diseñado para ser ligero, elegante y funcional.
 
 ## ✨ Características
