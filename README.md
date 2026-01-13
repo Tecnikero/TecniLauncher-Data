@@ -43,10 +43,11 @@ Entendemos que la seguridad de tu cuenta de Minecraft es lo más importante. Por
 
 Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán aquí.
 
-# v1.1.5 - *Versión Actual*
+# v1.1.7 - *Versión Actual*
 
 Mejoras visuales y agregado de iconos en los perfiles
 Se implemento el sistema de eventos (Proximamente)
+
 # v1.1.5
 
 Esta actualización trae mejoras visuales, nuevas opciones de conectividad y mayor precisión en la instalación de mods.
