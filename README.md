@@ -43,8 +43,25 @@ Entendemos que la seguridad de tu cuenta de Minecraft es lo más importante. Por
 
 Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán aquí.
 
+# v1.1.5 - *Versión Actual*
 
-## v1.1.4 (Hotfix) - *Versión Actual*
+Esta actualización trae mejoras visuales, nuevas opciones de conectividad y mayor precisión en la instalación de mods.
+
+### ✨ Novedades Principales
+* **Selección de Versión Exacta:** Ahora puedes elegir la versión específica del ModLoader (Fabric/Forge/NeoForge) manualmente en lugar de instalar siempre la última.
+* **Botones de Redes:** Agregados accesos directos a **Discord** y **GitHub** en el menú principal.
+* **Mejoras Visuales:** Retoques generales en la interfaz (UI) para un aspecto más moderno y limpio.
+* **Detección Automática de RAM:** El launcher ahora detecta tu memoria física real y ajusta el límite del slider automáticamente para evitar configuraciones erróneas.
+
+### 🛠️ Correcciones Técnicas
+* **Conectividad:** Mejoras en la seguridad de conexión (TLS 1.2/1.3) para evitar bloqueos de descarga.
+
+### 🐛 Errores Conocidos
+* Pequeño detalle visual en el borde inferior al maximizar la ventana en ciertas resoluciones (será corregido para las siguientes versiones).
+* 
+---
+
+## v1.1.4 (Hotfix)
 * **Corrección Crítica:** Solucionado un error que impedía el correcto inicio de usuario Offline con el Minecraft.
 * **Auto-Update:** Verificación exitosa del sistema de actualización automática en entorno real.
 
