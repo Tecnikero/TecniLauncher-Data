@@ -1,6 +1,6 @@
 {
-  "VersionMasReciente": "1.1.5",
+  "VersionMasReciente": "1.1.6",
   "EsCritica": true,
   "LinkDescarga": "https://github.com/johan12390785/TecniLauncher-Data/raw/refs/heads/main/LauncherUpdate/TecniLauncher_Update.zip.zip",
-  "Novedades": "Se arreglo un Bug del nombre"
+  "Novedades": "Se arreglo un Bug visual y funcional"
 }
