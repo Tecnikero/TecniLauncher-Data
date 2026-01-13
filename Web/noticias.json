@@ -3,6 +3,7 @@
     "Titulo": "Actualizacion v1.1.5",
     "Cuerpo": "Mira nuestro discord o Github para saber los cambios",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
+    "MostrarBoton": false,
     "BotonTexto": "",
     "BotonUrl": "",
     "BotonColor": ""
@@ -11,6 +12,7 @@
     "Titulo": "Proxima actualización",
     "Cuerpo": "Los Modpacks son importantes para disfrutar de una experiencia mejor",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
+    "MostrarBoton": false,
     "BotonTexto": "",
     "BotonUrl": "",
     "BotonColor": ""
@@ -19,6 +21,7 @@
     "Titulo": "Actualizacion rapida v1.1.6",
     "Cuerpo": "Se reglo un bug visual",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondominelauncher3.jpg",
+    "MostrarBoton": false,
     "BotonTexto": "",
     "BotonUrl": "",
     "BotonColor": ""
@@ -27,6 +30,7 @@
     "Titulo": "¡Únete a nuestro Discord!",
     "Cuerpo": "Entra a la comunidad oficial para reportar bugs, sugerir cambios y hablar con otros jugadores.",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia2.jpg",
+    "MostrarBoton": true,
     "BotonTexto": "UNIRSE AHORA",
     "BotonUrl": "https://discord.gg/U8E2tV3WMG",
     "BotonColor": "#5865F2"
