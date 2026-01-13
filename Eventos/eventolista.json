@@ -1,2 +1,10 @@
 [
+  {
+    "id": "evento_1",
+    "info_url": "https://raw.githubusercontent.com/johan12390785/EventoEjemplo/refs/heads/main/eventoinfo.json"
+  },
+  {
+    "id": "evento_unico_2",
+    "info_url": "LINK_RAW_AL_ARCHIVO_EVENTOINFO_DEL_OTRO_REPO_2"
+  }
 ]
