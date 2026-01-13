@@ -1,6 +1,6 @@
 [
   {
-    "id": "evento_tecnico_1",
+    "id": "evento_1",
     "info_url": "https://raw.githubusercontent.com/johan12390785/EventoEjemplo/main/eventoinfo.json",
     "mods_url": "https://raw.githubusercontent.com/johan12390785/EventoEjemplo/main/mods.json",
     "recursos_url": "https://raw.githubusercontent.com/johan12390785/EventoEjemplo/main/recursos.json"
