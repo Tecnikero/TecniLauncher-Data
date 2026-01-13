@@ -1,4 +1,10 @@
 [
-  { "id": "servidor_tecnico_v1", "folder": "tecnico_v1" },
-  { "id": "torneo_final", "folder": "torneo_2026" }
+  { 
+    "id": "servidor_tecnico_v1", 
+    "info_url": "https://raw.githubusercontent.com/.../tecnico_v1/eventoinfo.json" 
+  },
+  { 
+    "id": "torneo_final", 
+    "info_url": "https://raw.githubusercontent.com/.../torneo_2026/eventoinfo.json" 
+  }
 ]
