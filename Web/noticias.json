@@ -15,8 +15,11 @@
     "Cuerpo": "Se reglo un bug visual"
   },
   {
-    "Titulo": "Tenemos Discord",
+    "Titulo": "¡Únete a nuestro Discord!",
+    "Cuerpo": "Entra a la comunidad oficial para reportar bugs, sugerir cambios y hablar con otros jugadores.",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia2.jpg",
-    "Cuerpo": "La recepcion de la gente es lo mas importante por lo tanto hicimos un discord para que manden su feedback de forma directa"
+    "BotonTexto": "UNIRSE AHORA",
+    "BotonUrl": "https://discord.gg/U8E2tV3WMG",
+    "BotonColor": "#5865F2"
   }
 ]
