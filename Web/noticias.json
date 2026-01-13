@@ -1,17 +1,17 @@
 [
   {
-    "Titulo": "¡Bienvenido a TecniLauncher!",
-    "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher.png",
-    "Cuerpo": "Gracias por descargar nuestro launcher."
+    "Titulo": "Actualizacion v1.1.5",
+    "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
+    "Cuerpo": "Mira nuestro discord o Github para saber los cambios"
   },
   {
-    "Titulo": "Proxima actualización ",
+    "Titulo": "Proxima actualización",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
-    "Cuerpo": "hemos visto un alza de ram por el launcher en la proxima actualizacion se implementaran sistemas de optimizacion para mejorar la experiencia del usuario"
+    "Cuerpo": "Los Modpacks son importantes para disfrutar de una experiencia mejor"
   },
   {
-    "Titulo": "Nuestro Github",
-    "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
-    "Cuerpo": "Es nuestra sección donde normalemnte se informan de manera inmediata los cambios e informacion del launcher"
+    "Titulo": "Tenemos Discord",
+    "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia2.jpg",
+    "Cuerpo": "La recepcion de la gente es lo mas importante por lo tanto hicimos un discord para que manden su feedback de forma directa"
   }
 ]
