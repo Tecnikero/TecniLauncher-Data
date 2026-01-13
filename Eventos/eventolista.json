@@ -1,7 +1,7 @@
 [
   { 
     "id": "servidor_tecnico_v1", 
-    "info_url": "https://raw.githubusercontent.com/.../tecnico_v1/eventoinfo.json" 
+    "info_url": "https://raw.githubusercontent.com/johan12390785/EventoEjemplo/refs/heads/main/eventoinfo.json" 
   },
   { 
     "id": "torneo_final", 
