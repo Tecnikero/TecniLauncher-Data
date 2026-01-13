@@ -1,12 +1,12 @@
 [
   {
-    "Titulo": "Actualizacion v1.1.5",
-    "Cuerpo": "Mira nuestro discord o Github para saber los cambios",
+    "Titulo": "Actualizacion v1.1.7",
+    "Cuerpo": "Se mejoraron apartados visuales(Mas en nuestro discord)",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
     "MostrarBoton": false,
-    "BotonTexto": "",
-    "BotonUrl": "",
-    "BotonColor": ""
+    "BotonTexto": "UNIRSE AHORA",
+    "BotonUrl": "https://discord.gg/U8E2tV3WMG",
+    "BotonColor": "#5865F2"
   },
   {
     "Titulo": "Proxima actualización",
