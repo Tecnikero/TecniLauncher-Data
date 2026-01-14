@@ -43,10 +43,18 @@ Entendemos que la seguridad de tu cuenta de Minecraft es lo más importante. Por
 
 Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán aquí.
 
-# v1.1.7 - *Versión Actual*
+# v1.2.0 - *Versión Actual*
+
+Se Termino el sistema de Eventos y tambien tenemos una plantilla donde te dice como puedes configurar el evento.
+[Github de Ejemplo](https://github.com/johan12390785/EventoEjemplo)
+
+# v1.1.7 
 
 Mejoras visuales y agregado de iconos en los perfiles
 Se implemento el sistema de eventos (Proximamente)
+
+# v1.1.6
+Se arreglo un pequeño bug visual
 
 # v1.1.5
 
