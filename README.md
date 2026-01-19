@@ -46,9 +46,9 @@ Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán aquí
 
 # v1.2.1 - *Versión Actual*
 
-Se mejoro la optimizacion de ram.
-Se arreglo un bug se sobre la versiones de fabric.
-Se arreglo un bug visual donde las noticias tapaban el selector de perfiles.
+Se mejoro la optimizacion de ram.\n
+Se arreglo un bug se sobre la versiones de fabric.\n
+Se arreglo un bug visual donde las noticias tapaban el selector de perfiles.\n
 
 
 # v1.2.0 
