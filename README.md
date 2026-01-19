@@ -16,7 +16,7 @@
 * **Gestor de Mods:** Descarga de mods a través de la API de Modrinth.
   ![Apartado Mods](Media/mods.png)
 * **Eventos:** Se añadio el sistema de sincronizacion, aun en base fase beta pero funcional para actualizaciones faciles.
-* [Github de Ejemplo](https://github.com/johan12390785/EventoEjemplo)
+  [Github de Ejemplo](https://github.com/johan12390785/EventoEjemplo)
 
 * **Actualizaciones Automáticas:** Mantente siempre en la última versión sin mover un dedo.
 * **SISTEMA DE SKIN TODAVIA NO FUNCIONAL** -- Sin avances
