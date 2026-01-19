@@ -15,14 +15,15 @@
 
 * **Gestor de Mods:** Descarga de mods a través de la API de Modrinth.
   ![Apartado Mods](Media/mods.png)
-* **Eventos:** Proximamente con experiencias con modpacks que se actualizan automaticamente. 
+* **Eventos:** Se añadio el sistema de sincronizacion, aun en base fase beta pero funcional para actualizaciones faciles.
+* [Github de Ejemplo](https://github.com/johan12390785/EventoEjemplo)
 
 * **Actualizaciones Automáticas:** Mantente siempre en la última versión sin mover un dedo.
-* **SISTEMA DE SKIN TODAVIA NO FUNCIONAL**
+* **SISTEMA DE SKIN TODAVIA NO FUNCIONAL** -- Sin avances
 ## SISTEMAS A IMPLEMENTAR
-* Descarga de Modpacks
-* Implementar sincronización con los proximos eventos
-* Sistema mejorado de Versiones (ej: Fabric 0.18.4-1.21.11)
+* Descarga de Modpacks -- Sin avances
+* Implementar sincronización con los proximos eventos -- ✅
+* Sistema mejorado de Versiones (ej: Fabric 0.18.4-1.21.11) -- ✅
 
 ## 🚀 Descarga e Instalación
 Para comenzar a jugar, descarga el instalador oficial desde el siguiente enlace:
@@ -43,7 +44,14 @@ Entendemos que la seguridad de tu cuenta de Minecraft es lo más importante. Por
 
 Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán aquí.
 
-# v1.2.0 - *Versión Actual*
+# v1.2.1 - *Versión Actual*
+
+*Se mejoro la optimizacion de ram.
+*Se arreglo un bug se sobre la versiones de fabric.
+*Se arreglo un bug visual donde las noticias tapaban el selector de perfiles.
+
+
+# v1.2.0 
 
 Se Termino el sistema de Eventos y tambien tenemos una plantilla donde te dice como puedes configurar el evento.
 [Github de Ejemplo](https://github.com/johan12390785/EventoEjemplo)
