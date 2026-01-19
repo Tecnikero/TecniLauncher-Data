@@ -1,11 +1,11 @@
 [
   {
-    "Titulo": "Actualizacion v1.1.7",
-    "Cuerpo": "Se mejoraron apartados visuales(Mas en nuestro discord)",
+    "Titulo": "ATENCION ACTUALIZACION 20/01/2026",
+    "Cuerpo": "Por favor revisar el discord con atencion y leer el canal de ANUNCIOS",
     "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
-    "MostrarBoton": false,
-    "BotonTexto": "UNIRSE AHORA",
-    "BotonUrl": "https://discord.gg/U8E2tV3WMG",
+    "MostrarBoton": true,
+    "BotonTexto": "REVISAR AQUI ",
+    "BotonUrl": "https://discord.gg/adhVwrHbrJ",
     "BotonColor": "#5865F2"
   },
   {
