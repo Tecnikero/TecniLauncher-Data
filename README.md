@@ -44,7 +44,46 @@ Entendemos que la seguridad de tu cuenta de Minecraft es lo más importante. Por
 
 Todas las mejoras, arreglos y optimizaciones del proyecto se documentarán aquí.
 
-# v1.2.1 - *Versión Actual*
+# 🚀 TecniLauncher v1.2.2 - *Version Actual*
+
+¡Nueva actualización centrada en la optimización, internacionalización y mejoras visuales!
+
+> [!WARNING]
+> **⚠️ CAMBIO CRÍTICO EN EL ALMACENAMIENTO**
+> Para optimizar el espacio en disco, hemos cambiado la estructura de carpetas.
+> **Por favor, revisa tus perfiles antiguos y mueve tus carpetas `saves` y `screenshots` a la nueva ubicación antes de eliminar nada.**
+
+## ✨ Novedades Principales
+
+### 📂 Optimización de Archivos (Global Assets)
+Se ha reescrito la gestión de archivos. Ahora las versiones de Minecraft (Vanilla, Fabric, Forge) se descargan en una **carpeta global compartida**.
+* **Beneficio:** Ahorro masivo de espacio. Ya no tendrás versiones duplicadas por cada perfil.
+* *Nota: Los "Eventos" mantienen su aislamiento para evitar conflictos.*
+
+### 🌍 Soporte Multi-idioma
+La interfaz ahora es totalmente accesible en 3 idiomas (configurable desde Ajustes):
+* 🇪🇸 Español
+* 🇺🇸 English
+* 🇧🇷 Português (Brasil)
+
+### 🎨 Integración Visual con Ely.by
+* **Visor de Skins:** El launcher detecta y muestra automáticamente tu skin (Prioridad: Premium > Ely.by > Mojang).
+* **Gestión en la Nube:** Botón directo en ajustes para subir o cambiar tu skin en Ely.by.
+* *Aclaración: En esta versión (v1.2.2), la skin es visible en el Launcher. La inyección para verla dentro del juego en modo Offline llegará en la v1.3.0.*
+
+### 🧩 Tienda de Mods 2.0
+* Búsqueda optimizada conectada a la **API de Modrinth**.
+* Nuevo **Selector de Versiones**: Ahora puedes elegir específicamente qué archivo descargar (Release/Beta/Alpha).
+
+---
+
+## 🛠️ Mejoras y Arreglos
+* **UI/UX:** Rediseño completo de la pestaña de Ajustes con un formato de tarjetas moderno.
+* **Menú Principal:** Reorganizado para priorizar el nuevo sistema de Eventos.
+* **Bug Fix:** Solucionado el error de renderizado en la vista previa del personaje (las piernas ya no aparecen cortadas).
+
+
+# v1.2.1
 
 * **Optimizacion:** Se mejoro la optimizacion de ram.
 * **Bug:** Se arreglo un bug se sobre la versiones de fabric.
