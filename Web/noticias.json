@@ -2,7 +2,7 @@
   {
     "Titulo": "ATENCION ACTUALIZACION 20/01/2026",
     "Cuerpo": "Por favor revisar el discord con atencion y leer el canal de ANUNCIOS",
-    "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
+    "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
     "MostrarBoton": true,
     "BotonTexto": "REVISAR AQUI ",
     "BotonUrl": "https://discord.gg/adhVwrHbrJ",
@@ -11,7 +11,7 @@
   {
     "Titulo": "Proxima actualización",
     "Cuerpo": "Los Modpacks son importantes para disfrutar de una experiencia mejor y superior",
-    "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
+    "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
     "MostrarBoton": false,
     "BotonTexto": "",
     "BotonUrl": "",
@@ -20,7 +20,7 @@
   {
     "Titulo": "Actualizacion rapida v1.1.6",
     "Cuerpo": "Se reglo un bug visual",
-    "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondominelauncher3.jpg",
+    "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondominelauncher3.jpg",
     "MostrarBoton": false,
     "BotonTexto": "",
     "BotonUrl": "",
@@ -29,7 +29,7 @@
   {
     "Titulo": "¡Únete a nuestro Discord!",
     "Cuerpo": "Entra a la comunidad oficial para reportar bugs, sugerir cambios y hablar con otros jugadores.",
-    "Imagen": "https://raw.githubusercontent.com/johan12390785/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia2.jpg",
+    "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia2.jpg",
     "MostrarBoton": true,
     "BotonTexto": "UNIRSE AHORA",
     "BotonUrl": "https://discord.gg/U8E2tV3WMG",
