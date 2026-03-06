@@ -1,6 +1,6 @@
 {
-  "VersionMasReciente": "1.2.2",
+  "VersionMasReciente": "1.2.3",
   "EsCritica": false,
-  "LinkDescarga": "https://github.com/Tecnikero/TecniLauncher-Data/releases/download/1.2.3/TecniLauncher_Update.zip",
+  "LinkDescarga": "https://github.com/Tecnikero/TecniLauncher-Data/raw/refs/heads/main/LauncherUpdate/Tecnilauncher_Update.zip",
   "Novedades": "Se arreglo un Bug visual y funcional"
 }
