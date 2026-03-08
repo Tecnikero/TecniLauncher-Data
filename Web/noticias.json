@@ -1,6 +1,6 @@
 [
   {
-    "Titulo": "ATENCION ACTUALIZACION 20/01/2026",
+    "Titulo": "ATENCION ACTUALIZACION",
     "Cuerpo": "Por favor revisar el discord con atencion y leer el canal de ANUNCIOS",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
     "MostrarBoton": true,
@@ -9,30 +9,21 @@
     "BotonColor": "#5865F2"
   },
   {
-    "Titulo": "Proxima actualización",
-    "Cuerpo": "Los Modpacks son importantes para disfrutar de una experiencia mejor y superior",
+    "Titulo": "Ely.By",
+    "Cuerpo": "Crea una cuenta y juega con Skin en No Premium",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
-    "MostrarBoton": false,
-    "BotonTexto": "",
-    "BotonUrl": "",
-    "BotonColor": ""
+    "MostrarBoton": true,
+    "BotonTexto": "Pagina Oficial",
+    "BotonUrl": "https://ely.by/",
+    "BotonColor": "#5865F2"
   },
   {
-    "Titulo": "Actualizacion rapida v1.1.6",
-    "Cuerpo": "Se reglo un bug visual",
+    "Titulo": "Llegaron los Modpacks",
+    "Cuerpo": "Descarga tus Modpacks favoritos a traves de Modrith",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondominelauncher3.jpg",
     "MostrarBoton": false,
     "BotonTexto": "",
     "BotonUrl": "",
     "BotonColor": ""
-  },
-  {
-    "Titulo": "¡Únete a nuestro Discord!",
-    "Cuerpo": "Entra a la comunidad oficial para reportar bugs, sugerir cambios y hablar con otros jugadores.",
-    "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia2.jpg",
-    "MostrarBoton": true,
-    "BotonTexto": "UNIRSE AHORA",
-    "BotonUrl": "https://discord.gg/U8E2tV3WMG",
-    "BotonColor": "#5865F2"
   }
 ]
