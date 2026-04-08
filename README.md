@@ -28,8 +28,7 @@
 ## 🚀 Descarga e Instalación
 Para comenzar a jugar, descarga el instalador oficial desde el siguiente enlace:
 
-[📥 DESCARGAR TECNILAUNCHER INSTALADOR](https://github.com/johan12390785/TecniLauncher-Data/raw/refs/heads/main/SetupV1.1.2/TecniLauncher_Setup.exe)
-[Version antigua, al descargarlo te va a pedir actualizar]
+[📥 DESCARGAR TECNILAUNCHER INSTALADOR](https://github.com/Tecnikero/TecniLauncher/releases/download/v1.3.0/TecniLauncher_Setup_v1.3.0.exe)
 
 ## 🔒 Seguridad y Privacidad
 Entendemos que la seguridad de tu cuenta de Minecraft es lo más importante. Por eso, TecniLauncher está diseñado con una política de **Transparencia Total**:
