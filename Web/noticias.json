@@ -1,11 +1,11 @@
 [
   {
-    "Titulo": "BUGS Y REVISION",
-    "Cuerpo": "Estamos trabajando para la REVISION y la CORRECCIÓN de bugs",
+    "Titulo": "v1.3.1",
+    "Cuerpo": "Nueva version disponible, puedes ver los cambios en la pagina",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
     "MostrarBoton": true,
-    "BotonTexto": "ENTRA AL DS ",
-    "BotonUrl": "https://discord.gg/adhVwrHbrJ",
+    "BotonTexto": "CAMBIOS",
+    "BotonUrl": "https://tecnistudio.online/launcher/logs/",
     "BotonColor": "#5865F2"
   },
   {
