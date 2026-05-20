@@ -1,6 +1,6 @@
 [
   {
-    "Titulo": "v1.3.1",
+    "Titulo": "v1.4.1",
     "Cuerpo": "Nueva version disponible, puedes ver los cambios en la pagina",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
     "MostrarBoton": true,
@@ -9,21 +9,21 @@
     "BotonColor": "#5865F2"
   },
   {
-    "Titulo": "Ely.By",
+    "Titulo": "TecniStudio",
     "Cuerpo": "Crea una cuenta y juega con Skin en No Premium",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
     "MostrarBoton": true,
     "BotonTexto": "Pagina Oficial",
-    "BotonUrl": "https://ely.by/",
+    "BotonUrl": "https://tecnistudio.online/minecraft/skin",
     "BotonColor": "#5865F2"
   },
   {
-    "Titulo": "Llegaron los Modpacks",
-    "Cuerpo": "Descarga tus Modpacks favoritos a traves de Modrith",
+    "Titulo": "Discord",
+    "Cuerpo": "Entra a nuestro discord para reportar cualquier bug",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondominelauncher3.jpg",
-    "MostrarBoton": false,
-    "BotonTexto": "",
-    "BotonUrl": "",
-    "BotonColor": ""
+    "MostrarBoton": true,
+    "BotonTexto": "Discord",
+    "BotonUrl": "https://discord.com/invite/adhVwrHbrJ",
+    "BotonColor": "#5865F2"
   }
 ]
