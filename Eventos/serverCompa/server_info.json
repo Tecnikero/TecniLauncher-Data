@@ -1,0 +1,5 @@
+{
+  "version_actual": "1.2.0",
+  "url_descarga": "https://github.com/tu-usuario/tu-repo/releases/download/v1.2.0/modpack.zip",
+  "carpetas_a_limpiar": ["mods", "config", "kubejs"]
+}
