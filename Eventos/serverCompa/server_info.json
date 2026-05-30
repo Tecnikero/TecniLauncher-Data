@@ -1,5 +1,9 @@
 {
-  "version_actual": "1.2.0",
-  "url_descarga": "https://github.com/tu-usuario/tu-repo/releases/download/v1.2.0/modpack.zip",
-  "carpetas_a_limpiar": ["mods", "config", "kubejs"]
+  "version_actual": "1.0.0",
+  "url_descarga": "https://pub-1f134b235eba49c2a2a60d16a2f41550.r2.dev/serverCompaV1.0.0.zip",
+  "carpetas_a_limpiar": ["mods", "config", "kubejs", "shaderpacks"],
+  "java_version":"1.20.1",
+  "loader": "Forge",
+  "loader_version": "47.4.20",
+  "ram_minima_mb": 4096
 }
