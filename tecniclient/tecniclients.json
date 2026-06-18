@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "tecnipvp_v1",
+    "Name": "TecniPvP",
+    "Version": "v1.0",
+    "Description": "Cliente optimizado para pvp y altos FPS. Incluye mejoras visuales y de red.",
+    "Icon": "⚡",
+    "Mods": ["Fabric", "Sodium", "Lithium", "Iris"]
+  }
+]
