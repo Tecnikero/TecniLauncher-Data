@@ -4,6 +4,7 @@
     "Name": "TecniPvP",
     "Version": "v1.0",
     "MinecraftVersion": "1.21",
+    "LoaderVersion": "0.19.3",
     "Description": "Cliente optimizado para pvp y altos FPS. Incluye mejoras visuales y de red.",
     "Icon": "⚡",
     "Mods": ["Fabric", "Sodium", "Lithium", "Iris"],
