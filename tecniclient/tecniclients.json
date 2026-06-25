@@ -1,13 +1,13 @@
 [
   {
-    "Id": "tecnipvp_v1",
-    "Name": "TecniPvP 1.21",
+    "Id": "tecnipvp26-1_v1",
+    "Name": "TecniPvP 26.1",
     "Version": "v1.0",
-    "MinecraftVersion": "1.21",
+    "MinecraftVersion": "26.1",
     "LoaderVersion": "0.19.3",
     "Description": "Cliente optimizado para pvp y altos FPS. Incluye mejoras visuales y de red.",
     "Icon": "⚡",
     "Mods": ["Fabric", "Sodium", "Lithium", "Iris"],
-    "ModpackUrl": "https://pub-1f134b235eba49c2a2a60d16a2f41550.r2.dev/mods1.21.zip"
+    "ModpackUrl": "https://pub-1f134b235eba49c2a2a60d16a2f41550.r2.dev/mods26-1.zip"
   }
 ]
