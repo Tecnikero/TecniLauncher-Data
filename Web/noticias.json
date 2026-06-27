@@ -1,6 +1,6 @@
 [
   {
-    "Titulo": "v1.4.3",
+    "Titulo": "v1.4.4",
     "Cuerpo": "Nueva version disponible, puedes ver los cambios en la pagina",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
     "MostrarBoton": true,
@@ -9,12 +9,12 @@
     "BotonColor": "#5865F2"
   },
   {
-    "Titulo": "TecniStudio",
-    "Cuerpo": "Crea una cuenta y juega con Skin en No Premium",
+    "Titulo": "TecniClient",
+    "Cuerpo": "Nuevos Clientes faciles de instalar",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
     "MostrarBoton": true,
-    "BotonTexto": "Pagina Oficial",
-    "BotonUrl": "https://tecnistudio.online/minecraft/skin",
+    "BotonTexto": "Desarrollo",
+    "BotonUrl": "https://tecnistudio.online/launcher/client/index.html",
     "BotonColor": "#5865F2"
   },
   {
