@@ -9,5 +9,16 @@
     "Icon": "⚡",
     "Mods": ["Fabric", "Sodium", "Lithium", "Iris"],
     "ModpackUrl": "https://pub-1f134b235eba49c2a2a60d16a2f41550.r2.dev/mods26-1.zip"
+  },
+  {
+    "Id": "servermari",
+    "Name": "Server Kbros",
+    "Version": "v1.0",
+    "MinecraftVersion": "1.21.1",
+    "LoaderVersion": "21.1.234",
+    "Description": "Server con Mods con los kbros.",
+    "Icon": "⚙️",
+    "Mods": ["NeoForge", "Create", "Mekanism", "Biomes"],
+    "ModpackUrl": "https://pub-1f134b235eba49c2a2a60d16a2f41550.r2.dev/modscompas.zip"
   }
 ]
