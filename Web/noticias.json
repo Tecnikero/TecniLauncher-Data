@@ -4,7 +4,7 @@
     "Cuerpo": "Nueva version disponible, puedes ver los cambios en la pagina",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/fondonoticia1.jpg",
     "MostrarBoton": true,
-    "BotonTexto": "CAMBIOS",
+    "BotonTexto": "Cambios",
     "BotonUrl": "https://tecnistudio.online/launcher/logs/",
     "BotonColor": "#5865F2"
   },
