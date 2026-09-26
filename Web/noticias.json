@@ -10,7 +10,7 @@
   },
   {
     "Titulo": "Ultima actualizacion",
-    "Cuerpo": "No hay mas actualizacion de contenido, solo de bugs, puedes notificarlo en el discord.",
+    "Cuerpo": "No hay mas actualizacion de contenido, solo de bugs, puedes notificarlo en el discord. - Esto no incluye a los Clientes",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/main/Web/Imagenes/Actualizaciones/fondo_actu.png",
     "MostrarBoton": true,
     "BotonTexto": "Discord",
