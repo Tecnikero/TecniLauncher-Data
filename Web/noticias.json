@@ -1,5 +1,14 @@
 [
   {
+    "Titulo": "TecniClient 1.8.9",
+    "Cuerpo": "Para los veteranos salio el port para la 1.8.9 - Puedes DESCARGARLO en la seccion de clientes",
+    "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
+    "MostrarBoton": true,
+    "BotonTexto": "Desarrollo",
+    "BotonUrl": "https://tecnistudio.online/launcher/client/index.html",
+    "BotonColor": "#5865F2"
+  },
+  {
     "Titulo": "Ultima actualizacion",
     "Cuerpo": "No hay mas actualizacion de contenido, solo de bugs, puedes notificarlo en el discord.",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/main/Web/Imagenes/Actualizaciones/fondo_actu.png",
@@ -15,15 +24,6 @@
     "MostrarBoton": true,
     "BotonTexto": "CAMBIOS",
     "BotonUrl": "https://tecnistudio.online/launcher/logs/",
-    "BotonColor": "#5865F2"
-  },
-  {
-    "Titulo": "TecniClient",
-    "Cuerpo": "Nuevos Clientes faciles de instalar",
-    "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/refs/heads/main/Web/Imagenes/Actualizaciones/FondoMineLauncher2.png",
-    "MostrarBoton": true,
-    "BotonTexto": "Desarrollo",
-    "BotonUrl": "https://tecnistudio.online/launcher/client/index.html",
     "BotonColor": "#5865F2"
   },
   {
