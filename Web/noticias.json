@@ -9,8 +9,8 @@
     "BotonColor": "#5865F2"
   },
   {
-    "Titulo": "Actualizacion v1.4.5",
-    "Cuerpo": "Nueva version para mejorar la experiencia del usuario arreglando bug visuales y mejorando la interfaz.",
+    "Titulo": "Actualizacion v1.4.6",
+    "Cuerpo": "Nuevas funciones ya disponibles para la experiencia del usuario.",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/main/Web/Imagenes/Actualizaciones/fondo_actu.png",
     "MostrarBoton": true,
     "BotonTexto": "CAMBIOS",
