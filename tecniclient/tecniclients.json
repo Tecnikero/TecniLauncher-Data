@@ -1,6 +1,7 @@
 [
   {
     "Id": "tecnipvp26-1",
+    "Sha256": "d10408a99721b6dbf570c5f5255b82411f4fb254bed83e158f5d4e2e7e2f7be6",
     "Name": "TecniPvP 26.1",
     "Version": "v1.0.1",
     "Loader": "Fabric",
@@ -13,6 +14,7 @@
   },
   {
     "Id": "tecnipvp1-8-9",
+    "Sha256": "a9549f98c131fd061439664e61ccc4a18217ca6c40428174832cba78b51787b6",
     "Name": "TecniPvP 1.8.9",
     "Version": "v1.0.1",
     "Loader": "Forge",
