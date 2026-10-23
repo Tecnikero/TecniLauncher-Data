@@ -1,11 +1,11 @@
 [
   {
-    "Titulo": "Actualizacion v1.5.0",
-    "Cuerpo": "Nuevas funciones ya disponibles para la experiencia del usuario.",
+    "Titulo": "Actualizacion v1.5.1",
+    "Cuerpo": "IMPORTANTE-- Los que tienen v1.5.0 no se les descarga automaticamente, en los v1.4.x si se les actualizara de forma automatica.",
     "Imagen": "https://raw.githubusercontent.com/Tecnikero/TecniLauncher-Data/main/Web/Imagenes/Actualizaciones/fondo_actu.png",
     "MostrarBoton": true,
-    "BotonTexto": "CAMBIOS",
-    "BotonUrl": "https://tecnistudio.online/launcher/logs",
+    "BotonTexto": "DESCARGAR",
+    "BotonUrl": "https://tecnistudio.online/launcher/descargando.html",
     "BotonColor": "#5865F2"
   },
   {
