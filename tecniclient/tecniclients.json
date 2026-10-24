@@ -1,28 +1,28 @@
 [
   {
     "Id": "tecnipvp26-1",
-    "Sha256": "d10408a99721b6dbf570c5f5255b82411f4fb254bed83e158f5d4e2e7e2f7be6",
+    "Sha256": "d7317a1e9866a9fa3ed786b047fe35283c6fccc30843c38da42caf7652ff633e",
     "Name": "TecniPvP 26.1",
-    "Version": "v1.0.1",
+    "Version": "v1.0.2",
     "Loader": "Fabric",
     "MinecraftVersion": "26.1",
     "LoaderVersion": "0.19.3",
     "Description": "Cliente optimizado para pvp y altos FPS. Incluye mejoras visuales y de red.",
     "Icon": "⚡",
     "Mods": ["26.1", "Fabric", "Sodium", "Lithium", "Iris"],
-    "ModpackUrl": "https://pub-1f134b235eba49c2a2a60d16a2f41550.r2.dev/mods26-1v1.0.1.zip"
+    "ModpackUrl": "https://pub-1f134b235eba49c2a2a60d16a2f41550.r2.dev/mods26-1v1.0.2.zip"
   },
   {
     "Id": "tecnipvp1-8-9",
-    "Sha256": "a9549f98c131fd061439664e61ccc4a18217ca6c40428174832cba78b51787b6",
+    "Sha256": "d83ca0763623dc197d025aa329b03e033f5e86db8e312931ba991ef004229241",
     "Name": "TecniPvP 1.8.9",
-    "Version": "v1.0.1",
+    "Version": "v1.0.2",
     "Loader": "Forge",
     "MinecraftVersion": "1.8.9",
     "LoaderVersion": "11.15.1.2318",
     "Description": "Cliente optimizado para pvp. Incluye mejoras visuales y de red.",
     "Icon": "⚡",
     "Mods": ["1.8.9", "Forge", "Optifine", "FpsReducer"],
-    "ModpackUrl": "https://pub-1f134b235eba49c2a2a60d16a2f41550.r2.dev/mods1-8-9v1.0.1.zip"
+    "ModpackUrl": "https://pub-1f134b235eba49c2a2a60d16a2f41550.r2.dev/mods1-8-9v1.0.2.zip"
   }
 ]
