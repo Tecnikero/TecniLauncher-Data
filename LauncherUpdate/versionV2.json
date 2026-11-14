@@ -1,7 +1,7 @@
 {
-  "VersionMasReciente": "1.5.4",
+  "VersionMasReciente": "1.5.5",
   "EsCritica": false,
   "LinkDescarga": "https://github.com/Tecnikero/TecniLauncher-Data/raw/refs/heads/main/LauncherUpdate/TecniLauncherUpdate.zip",
-  "Sha256": "5fc554f2b6585d4d9a804cba4bab190b2e3b3a5c73399895be8da353808a8aaf",
-  "Firma": "7eYu83GFizUwXNk2tRnYn7DOgLaSGIl5EhW8q37rIdpv8RIln2/G1+b5w98ojtye7+YtJQGgaIxS/2273xWJwg=="
+  "Sha256": "60f7e75f754432c5151f1583914b3d4bd1e6ca2c060dccd5bdfba5e045584114",
+  "Firma": "DLcvDDAoSqGAdam4JLuGXiYypXLwRAjZ1nc8LVTJfMWLzMLNoCTW3TGTfr+P2sEmvTqCFljKAxyNUul/AJ7uzg=="
 }
